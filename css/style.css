@@ -165,8 +165,8 @@ header .ham-burger.active span:nth-child(2){
 }
 .home .go-down .fa{
 	color:#ffffff;
-	-webkit-animation: goDown 1s ease infinite;
-	animation: goDown 1s ease infinite;
+	-webkit-animation: goUp 1s ease infinite;
+	animation: goUp 1s ease infinite;
 }
 @-webkit-keyframes goDown{
 	0%{transform: translateY(0);opacity:.5}
